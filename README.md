@@ -1,2 +1,2 @@
 # fmri-analysis
-fMRI analysis (requires SPM)
+fMRI analysis for rodents (requires SPM)
